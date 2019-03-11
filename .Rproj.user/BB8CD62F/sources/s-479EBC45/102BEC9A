@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552323873019.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3881305815",
+    "id" : "102BEC9A",
+    "lastKnownWriteTime" : 1552324221,
+    "last_content_update" : 1552324221088,
+    "path" : "C:/homework-r-practice/2019-03-12-2.Rmd",
+    "project_path" : "2019-03-12-2.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
