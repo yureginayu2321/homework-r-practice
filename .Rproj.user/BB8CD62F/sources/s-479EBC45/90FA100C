@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552321739950.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2208221324",
+    "id" : "90FA100C",
+    "lastKnownWriteTime" : 1552321935,
+    "last_content_update" : 1552321935765,
+    "path" : "C:/homework-r-practice/2019-03-12.Rmd",
+    "project_path" : "2019-03-12.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "1,18",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
