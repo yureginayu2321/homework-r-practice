@@ -39,3 +39,38 @@ cVector <- c("嗨嗨")
 dialogue <- c("每每說:'你很漂亮。',小花說'我也覺得。'")
 ```
 
+```{r}
+aLogical <- c(T,F,T,T,F,T)
+class(aLogical)
+sum(aLogical)
+```
+```{r}
+englishwords <- factor(c('ㄅ','ㄆ','ㄇ','ㄈ','ㄉ'))
+typeof(englishwords)
+levels(englishwords)
+englishwords
+as.integer(englishwords
+           )
+stringInteger <- c(5,7,11,9)
+class(stringInteger)
+trueInteger <- as.integer(stringInteger)
+class(trueInteger)
+sum(trueInteger)
+```
+```{r}
+library(lubridate)
+dtobject <- ymd_hms("2019-03-27 01:05:30")
+dtobject
+dtObjectVector<-ymd_hms(
+  c("1970-01-01 00:02:53",
+    "1980-02-11 11:25:22")
+)
+class(dtObjectVector
+      )
+as.double(dtObjectVector)
+as.double(dtobject
+          )
+as.integer(dtobject)
+
+```
+
